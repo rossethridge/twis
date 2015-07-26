@@ -8,7 +8,7 @@ $navigationIsClicked = isset($_GET['page']);
 if ($navigationIsClicked) {
 	$fileToLoad = $_GET['page'];
 } else {
-	$fileToLoad = "projects";
+	$fileToLoad = "skills";
 	}
 	$pageData->content .=include_once "views/$fileToLoad.php";
 	}
