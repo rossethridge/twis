@@ -1,4 +1,4 @@
 <?php
 	return "
-	images/obama.jpg
+	<img src='images/obama.jpg'>
 	";
