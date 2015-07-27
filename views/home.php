@@ -1,4 +1,4 @@
 <?php
 	return "
-	<img src='images/obama.jpg' width='50%' />
+	<img src='images/obama.png' width='50%' />
 	";
